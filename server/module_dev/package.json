@@ -1,0 +1,14 @@
+{
+  "name": "oracleclientconnect",
+  "version": "1.0.0",
+  "description": "Allows connectivity to the Oracle database",
+  "main": "Oracle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan Kilpatrick",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "5.5.0"
+  }
+}
